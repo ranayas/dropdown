@@ -1,0 +1,11 @@
+.app__dropdown {
+  font-size: 3.2rem;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1.6rem;
+  color: dodgerblue;
+}
+
+.app__test-text {
+  margin-top: 1.6rem;
+}

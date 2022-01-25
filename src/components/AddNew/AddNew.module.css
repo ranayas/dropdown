@@ -1,0 +1,9 @@
+.add-new {
+  padding: 0.8rem 0.8rem;
+  text-align: center;
+}
+
+.add-new:hover {
+  cursor: pointer;
+  background-color: lightskyblue;
+}

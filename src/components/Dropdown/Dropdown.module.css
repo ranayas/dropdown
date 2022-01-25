@@ -1,0 +1,21 @@
+.dropdown {
+  position: relative;
+}
+
+.dropdown__list {
+  left: 0;
+  right: 0;
+  max-height: 50rem;
+  margin-top: 0.8rem;
+  overflow: auto;
+  position: absolute;
+  background-color: white;
+  border: 1px solid dodgerblue;
+}
+
+.dropdown__popup-wrapper {
+  margin-top: 0.8rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
